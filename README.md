@@ -12,7 +12,8 @@ That's not just a business failure story. That's a psychology story. A story abo
 
 I wanted to understand what actually went wrong — not the surface-level "they missed smartphones" answer, but the real reason. So I went through Nokia's annual reports, market share data, financial statements, and leadership decisions year by year to find it.
 
----
+---<img width="600" height="400" alt="Screenshot 2026-09-22 173725" src="https://github.com/user-attachments/assets/1a54b7c3-8fda-4d2c-b031-8487b3b66349" />
+
 
 ## The one finding that explains everything
 
@@ -77,7 +78,8 @@ Nokia was still selling phones. But the value in each phone was quietly disappea
 
 By 2012 when operating profit went negative, it wasn't a crisis that had just arrived. It was a crisis that had been building for years while the revenue line kept everyone calm.
 
----
+---<img width="600" height="400" alt="Screenshot 2026-09-22 173853" src="https://github.com/user-attachments/assets/a859cecf-fbd1-4af8-8536-7aaa1bff5eb4" />
+
 
 **The internal paralysis**
 
@@ -88,7 +90,8 @@ Four things locked Nokia in place when they needed to move:
 - Decision-making required consensus across dozens of divisions — while Apple shipped and Android scaled, Nokia held meetings
 - Revenue looked fine, so leadership kept thinking they had time — they didn't
 
----
+---<img width="600" height="400" alt="Screenshot 2026-09-22 173913" src="https://github.com/user-attachments/assets/5aae107e-a5a4-43c2-8fd8-643760f8281c" />
+
 
 **The Elop era and the final bet**
 
@@ -158,7 +161,8 @@ A few patterns that kept showing up:
 | `Nokia case study.pdf` | The full analysis — charts, data, narrative, all of it |
 | `nokia readme file.pdf` | Project overview and methodology summary |
 
----
+---<img width="600" height="400" alt="Screenshot 2026-09-22 173940" src="https://github.com/user-attachments/assets/9b28267c-8a42-4f0d-b259-9fa7bbd5fb2d" />
+
 
 ## References
 
