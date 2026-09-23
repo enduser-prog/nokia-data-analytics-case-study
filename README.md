@@ -1,7 +1,8 @@
 # The Rise & Fall of Nokia
 ### An analytical study of Nokia's strategic journey from world domination to Microsoft's acquisition
 *by Apoorv Sharma*
-
+  
+   (you can view the full report by downloading the pdf)
 ---
 
 ## Why I picked Nokia
